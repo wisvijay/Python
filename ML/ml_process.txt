@@ -1,0 +1,4 @@
+What are the ML Process?
+What are needed for Model generation?
+How we will create a model?
+How to deploy the model?
